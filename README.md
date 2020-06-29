@@ -19,6 +19,8 @@
   </a>
 </p>
 
+See the full write-up on my [blog](https://developerpaul123.github.io/programming/analyzing-word-content-of-music-lyrics/).
+
 ## Getting Started
 
 ### Project Setup
